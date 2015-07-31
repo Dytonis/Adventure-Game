@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Adventure Game.CSharp.Plugins", "UnityVS.Adventure Game.CSharp.Plugins.csproj", "{80CCF586-986D-AEAA-7806-30D377EA7E8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Adventure Game.CSharp", "UnityVS.Adventure Game.CSharp.csproj", "{4CF4FC61-D5BC-12EC-EB23-BF49E14AB230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Adventure Game.CSharp.Editor", "UnityVS.Adventure Game.CSharp.Editor.csproj", "{90E20CD9-B1AF-AD1F-06C0-78CB7EEB684A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80CCF586-986D-AEAA-7806-30D377EA7E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CCF586-986D-AEAA-7806-30D377EA7E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CCF586-986D-AEAA-7806-30D377EA7E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CCF586-986D-AEAA-7806-30D377EA7E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF4FC61-D5BC-12EC-EB23-BF49E14AB230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF4FC61-D5BC-12EC-EB23-BF49E14AB230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF4FC61-D5BC-12EC-EB23-BF49E14AB230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF4FC61-D5BC-12EC-EB23-BF49E14AB230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E20CD9-B1AF-AD1F-06C0-78CB7EEB684A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E20CD9-B1AF-AD1F-06C0-78CB7EEB684A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E20CD9-B1AF-AD1F-06C0-78CB7EEB684A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E20CD9-B1AF-AD1F-06C0-78CB7EEB684A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

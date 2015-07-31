@@ -1,0 +1,5 @@
+C:\Users\Velvet\Desktop\Adventure Game\Adventure Game\Library\DynamicProjects\prpNmGn\prpNmGn\bin\Debug\prpNmGn.dll
+C:\Users\Velvet\Desktop\Adventure Game\Adventure Game\Library\DynamicProjects\prpNmGn\prpNmGn\bin\Debug\prpNmGn.pdb
+C:\Users\Velvet\Desktop\Adventure Game\Adventure Game\Library\DynamicProjects\prpNmGn\prpNmGn\obj\Debug\prpNmGn.csprojResolveAssemblyReference.cache
+C:\Users\Velvet\Desktop\Adventure Game\Adventure Game\Library\DynamicProjects\prpNmGn\prpNmGn\obj\Debug\prpNmGn.dll
+C:\Users\Velvet\Desktop\Adventure Game\Adventure Game\Library\DynamicProjects\prpNmGn\prpNmGn\obj\Debug\prpNmGn.pdb
