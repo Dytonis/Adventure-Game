@@ -51,6 +51,8 @@ namespace Assets.Scripts.Level
             }
 
             T.terrainData.SetAlphamaps(0, 0, alphaMap);
+
+            transform.GetComponent<FindTownAreas>().Run();
         }
     }
 }

@@ -80,8 +80,14 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Globals\Configuration.cs" />
+    <Compile Include="Assets\Scripts\Globals\Runtime.cs" />
+    <Compile Include="Assets\Scripts\Level\FindTownAreas.cs" />
+    <Compile Include="Assets\Scripts\Level\FindTowns.cs" />
     <Compile Include="Assets\Scripts\Level\HeightmapToTerrain.cs" />
+    <Compile Include="Assets\Scripts\Level\RoadPlacer.cs" />
     <Compile Include="Assets\Scripts\Level\TextureAssign.cs" />
+    <Compile Include="Assets\Scripts\Level\TownLimits.cs" />
     <Compile Include="Assets\Scripts\Level\TreePlacer.cs" />
   </ItemGroup>
   <ItemGroup>

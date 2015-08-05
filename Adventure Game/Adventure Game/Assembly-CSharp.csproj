@@ -46,8 +46,14 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Globals\Configuration.cs" />
+     <Compile Include="Assets\Scripts\Globals\Runtime.cs" />
+     <Compile Include="Assets\Scripts\Level\FindTownAreas.cs" />
+     <Compile Include="Assets\Scripts\Level\FindTowns.cs" />
      <Compile Include="Assets\Scripts\Level\HeightmapToTerrain.cs" />
+     <Compile Include="Assets\Scripts\Level\RoadPlacer.cs" />
      <Compile Include="Assets\Scripts\Level\TextureAssign.cs" />
+     <Compile Include="Assets\Scripts\Level\TownLimits.cs" />
      <Compile Include="Assets\Scripts\Level\TreePlacer.cs" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />

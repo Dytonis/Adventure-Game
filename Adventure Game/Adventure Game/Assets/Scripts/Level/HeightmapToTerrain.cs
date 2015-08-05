@@ -27,7 +27,7 @@ namespace Assets.Scripts.Level
 
                     c /= 700;
 
-                    Debug.Log(c);
+                    //Debug.Log(c);
 
                     heights[x, y] += c;                    
                 }

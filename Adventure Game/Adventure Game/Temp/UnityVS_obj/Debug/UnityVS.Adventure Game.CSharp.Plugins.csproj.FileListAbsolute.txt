@@ -1,0 +1,18 @@
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_bin\Debug\System.Drawing.dll
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_obj\Debug\UnityVS.Adventure Game.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Velvet\Documents\GitHub\Adventure-Game\Adventure Game\Adventure Game\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.pdb
